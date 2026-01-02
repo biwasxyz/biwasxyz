@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Biwas Bhandari 👋</h1>
+<h1 align="center"> Biwas B.</h1>
 
-<p align="center"><strong>I build AI tools that automate your work.</strong></p>
+
 
